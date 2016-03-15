@@ -1,0 +1,14 @@
+.DS_Store
+*~
+*#
+*.cab
+*.msi
+*.msm
+*.msp
+Thumbs.db
+eththumbs.db
+
+Debug/
+.xdchelp
+.config/
+.launches/
